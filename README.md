@@ -5,6 +5,7 @@
 - 활용 데이터: PUBG Open API, Chicken Dinner(PUBG 시각화 파이썬 패키지)
 - 팀 구성: 4인
 - 프로젝트 기간: 2023.04.27. ~ 2023.05.09.
+- 깃헙: https://github.com/AIS8-WWCD
 
 
 
